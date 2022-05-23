@@ -1,2 +1,2 @@
 # faculdade-segundo-semestre
-Códigos de exercícios e atividades do segundo semestre
+Códigos das atividades e exercícios feitos no segundo semestre da faculdade
